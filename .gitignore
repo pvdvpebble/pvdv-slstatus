@@ -1,0 +1,5 @@
+patches
+*.diff
+config.h
+slstatus
+*.o
